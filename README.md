@@ -6,8 +6,8 @@ pkg install lolcat
 pkg install php
 pkg install bash
 pkg install git
-git clone https://Bang-Inu/Tools-V1
-cd Tools-V1
+git clone https://Bang-Inu/ToolsV1
+cd ToolsV1
 git pull
 bash run.sh
 ```
