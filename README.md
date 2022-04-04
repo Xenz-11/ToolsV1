@@ -8,5 +8,5 @@ pkg install git
 git clone https://Bang-Inu/Tools-V1
 cd Tools-V1
 git pull
-bash tools.sh
+bash run.sh
 ```
