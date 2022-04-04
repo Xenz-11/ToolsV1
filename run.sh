@@ -92,6 +92,8 @@ pkg install pv -y
 pkg install wget -y
 
 pkg install git -y
+
+bash run.sh
 fi
 
 ## Menu2
