@@ -11,7 +11,7 @@ U = '\x1b[1;95m' # UNGU
 O = '\x1b[1;96m' # BIRU MUDA
 N = '\x1b[0m'    # WARNA MATI
 ##################
-logo =("""
+sayang_april=("""
 \x1b[1;92m╔═══════[  \x1b[1;91mMR-Xyaa \x1b[1;92m]═════════════════════════════╗
 \x1b[1;92m■  \x1b[1;93m[▪]   \x1b[1;94mAuthor : BangInu                        \x1b[1;92m■
 \x1b[1;92m■  \x1b[1;93m[▪]   \x1b[1;94mFacbook : Sapa Yah                      \x1b[1;92m■
@@ -28,4 +28,4 @@ import os
 inu =print
 def kntl():
       os.system('clear')
-inu (logo)
+inu (sayang_april)
