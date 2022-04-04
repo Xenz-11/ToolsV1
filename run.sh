@@ -54,7 +54,7 @@ read -p "Pilih No:" bro
 if [ $bro = 1 ] || [ $bro = 1 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 pkg update && pkg upgrade
 
 pkg install python python2 python3
@@ -100,7 +100,7 @@ fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/Oh-My-Zsh
 cd Oh-My--Zsh
 git pull
@@ -111,7 +111,7 @@ fi
 if [ $bro = 3 ] || [ $bro = 3 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/MTK
 cd MTK
 git pull
@@ -122,7 +122,7 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/dmbf
 cd dmbf
 git pull
@@ -134,7 +134,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 pkg update
 pkg upgrade
 pkg install git
@@ -149,7 +149,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/terkey
 cd terkey
 git pull
@@ -160,7 +160,7 @@ fi
 if [ $bro = 7 ] || [ $bro = 7 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/spamcall
 cd spamcall
 git pull
@@ -171,7 +171,7 @@ fi
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/Xenzi-XN1/Tools-Spam
 cd Tools-Spam
 git pull
@@ -182,7 +182,7 @@ fi
 if [ $bro = 00 ] || [ $bro = 00 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 sleep 1
 echo -e $abang"We Security"
 sleep 1
@@ -198,7 +198,7 @@ echo -e $putih"Maka Terus lah BerJuang Dan Berusaha"
 sleep 1
 echo -e $kuning"Karna Suatu Hari Nanti Kamu akan Mendapatkannya"
 sleep 1
-echo -e $ijo"MR-Xyaa"
+echo -e $ijo"Bang-Inu"
 sleep 5
 python tai.py
 sleep 5
@@ -210,7 +210,7 @@ fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 pkg update && pkg upgrade
 pkg install nano
 pkg install git
@@ -226,11 +226,9 @@ fi
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
-toilet -f slant "MR-Xyaa";
+toilet -f slant "Bang-Inu";
 git clone https://github.com/MR-Xyaa/Spamer
 cd Spamer
 git pull
 bash mulai.sh
 fi
-          else:
-             echo -e $abang"pilih yg bener setan"
