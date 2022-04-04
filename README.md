@@ -20,5 +20,3 @@ bash run.sh
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bang-Inu&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="mazipan" /></p>
 # ^_^
-
-https://cdn.prinsh.com/data-
