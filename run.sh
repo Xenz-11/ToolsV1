@@ -35,6 +35,10 @@ clear
 python loading.py
 sleep 3
 clear
+echo "FOLLOW FACEBOOK GW DULU BIAR WORK ^_^"
+xdg-open https://www.facebook.com/profile.php?id=100078919720019
+sleep 3
+clear
 python logo.py
 python tools.py
 
